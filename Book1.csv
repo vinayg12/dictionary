@@ -1,2 +1,11 @@
 ENGLISH WORD,ENGLISH LITERAL MEANING,TELUGU LITERAL MEANING,COMPUTER SCIENCE MEANING
 strings,thin rope made by twisting very thin threads,???,sequence of characters 
+structures,construct or arrange according to a plan,????????,a data structure is specilized format to organize and store data
+debugging,to remove insects,,the process of identifying and removing errors
+compile,to collect and edit,,converts programs into high level language
+memory,something remebered from past,,capable of storing information
+instance,an example or single occurrence of something,,specific realization of any object
+pointer,"a long, thin piece of metal on a scale or dial which moves to indicate a figure or position",,object that stores memory address
+declaration,a formal or explicit statement or announcement,,is a language construct that specifies properties of an identifier
+field,"an area of open land, especially one planted with crops ",,"data that has several parts, known as a record, can be divided into fields"
+variable,not consistent or having a fixed pattern,," is a value that can change, depending on conditions or on information passed to the program"
